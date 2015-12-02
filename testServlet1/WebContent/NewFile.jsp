@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	ceci est une jsp	ou pas .
+	ceci est une jsp	ou pas , oui je confirme
 	
 </body>
 </html>
