@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	ceci est une jsp	
+	ceci est une jsp	ou pas .
 	
 </body>
 </html>
